@@ -133,34 +133,33 @@ body {
 
 /* Start MediaQueries */
 @media screen and (max-width: 768px) and (min-width: 426px) {
-    /* Start Homepage */
-    .homepage {
-      /* Start projects */
-      .projects {
-        margin-top: 3rem !important;
-        .item {
-          height: 18rem;
-          margin-bottom: 3rem !important;
-          hr {
-            width: 75% !important;
-            margin-top: 4rem !important;
+  /* Start Homepage */
+  .homepage {
+    /* Start projects */
+    .projects {
+      margin-top: 3rem !important;
+      .item {
+        height: 18rem;
+        margin-bottom: 3rem !important;
+        hr {
+          width: 75% !important;
+          margin-top: 4rem !important;
+        }
+        .right {
+          padding-right: 0.5rem;
+          header {
+            font-size: 1.5rem;
+            margin-bottom: 0.7rem;
           }
-          .right {
-            padding-right: 0.5rem;
-            header {
-              font-size: 1.5rem;
-              margin-bottom: 0.7rem;
-            }
-            .techs {
-              margin: 2rem 0;
-            }
+          .techs {
+            margin: 2rem 0;
           }
         }
       }
-      /* End projects */
     }
-    /* End Homepage */
-  
+    /* End projects */
+  }
+  /* End Homepage */
 }
 
 @media screen and (max-width: 425px) {

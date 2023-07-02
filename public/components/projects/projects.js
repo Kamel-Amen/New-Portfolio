@@ -25,18 +25,3 @@ function buildProjects(data) {
       '" class="btn btn-lg btn-danger">Code</a></div><hr class="w-50 mx-auto" /></div></div>';
   }
 }
-
-/*
-  "technologies": [
-    "<i class='mx-2 fa-brands fa-html5' style='color: #e34c26'></i>",
-    "<i class='mx-2 fa-brands fa-css3-alt' style='color: #264de4'></i>",
-    "<i class='mx-2 fa-brands fa-js' style='color: #f5b918'></i>",
-    "<i class='mx-2 fa-brands fa-react' style='color: #5dcaf0'></i>",
-    "<i class='mx-2 fa-brands fa-sass' style='color: #cd6799'></i>",
-    "<i class='mx-2 fa-brands fa-bootstrap' style='color: #563d7c'></i>",
-    "<i class='mx-2 fa-brands fa-php' style='color: #7175aa'></i>",
-    "<i class='mx-2 fa-solid fa-database' style='color: #d98611'></i>",
-    "<i class='mx-2 fa-brands fa-square-git' style='color: #316efd'></i> "
-  ],
-
-*/
