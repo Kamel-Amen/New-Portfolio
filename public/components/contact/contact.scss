@@ -1,5 +1,6 @@
 /* Imports */
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Londrina+Solid&family=Poppins&family=Raleway&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
 //font-family: 'Josefin Sans', sans-serif;
 //font-family: 'Londrina Solid', cursive;
 //font-family: 'Poppins', sans-serif;
@@ -82,10 +83,13 @@ body {
 
   /* Start Contact */
   .contact {
+    width: 100vw;
+    height: 100vh;
     .left {
       header {
         font-size: 3rem;
         margin-bottom: 2rem;
+        font-family: 'Protest Riot';
       }
       ul {
         li {

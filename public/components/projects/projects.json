@@ -6,17 +6,19 @@
       "img": "../../../assests/projects-imgs/p1.png",
       "info": "Freelance project with furniture theme.",
       "url": "https://kamel-amen.github.io/Ahmed_El-Shikh/",
-      "techs": "<i class='fa-brands mx-2 fa-html5' style='color: #e34c26'></i><i class='fa-brands mx-2 fa-css3-alt' style='color: #264de4'></i><i class='fa-brands mx-2 fa-js' style='color: #f5b918'></i><i class='fa-brands mx-2 fa-sass' style='color: #cd6799'></i><i class='fa-brands mx-2 fa-bootstrap' style='color: #563d7c'></i>",
-      "code": "https://github.com/Kamel-Amen/Ahmed_El-Shikh"
+      "techs": "<i class='fa-brands mx-2 fa-html5' style='color: #e34c26'></i><i class='fa-brands mx-2 fa-css3-alt' style='color: #264de4'></i><i class='fa-brands mx-2 fa-js' style='color: #f5b918'></i><i class='fa-brands mx-2 fa-sass' style='color: #cd6799'></i><i class='fa-brands mx-2 fa-bootstrap' style='color: #563d7c'></i><i class='fa-brands fa-font-awesome' style='color: #74C0FC;'></i>",
+      "freelance": true,
+      "code": "https://youtu.be/yvf7wND_iYY"
     },
     {
       "id": 2,
-      "name": "Bakery's House",
+      "name": "Tenzies Game",
       "img": "../../../assests/projects-imgs/p2.png",
-      "info": "A small online market for baked products with customer cart and ordering system.",
-      "url": "#",
-      "techs": "<i class='fa-brands mx-2 fa-html5' style='color: #e34c26'></i><i class='fa-brands mx-2 fa-css3-alt' style='color: #264de4'></i><i class='fa-brands mx-2 fa-js' style='color: #f5b918'></i><i class='fa-brands mx-2 fa-sass' style='color: #cd6799'></i><i class='fa-brands mx-2 fa-bootstrap' style='color: #563d7c'></i>",
-      "code": "https://github.com/Kamel-Amen/Bakery-s-Shop"
+      "info": "A dice roller game.",
+      "url": "https://kamel-amen.github.io/Tenzies-React-Game/",
+      "techs": "<i class='fa-brands mx-2 fa-css3-alt' style='color: #264de4'></i><i class='fa-brands mx-2 fa-react' style='color: #74C0FC'></i><i class='fa-brands mx-2 fa-sass' style='color: #cd6799'></i><i class='fa-brands mx-2 fa-bootstrap' style='color: #563d7c'></i>",
+      "freelance": false,
+      "code": "https://github.com/Kamel-Amen/Tenzies-React-Game"
     },
     {
       "id": 3,
@@ -24,7 +26,8 @@
       "img": "../../../assests/projects-imgs/p3.png",
       "info": "'Just Play' is a small games website with 8 different games and many levels of difficulty, game lives, timers and lots of animation effects. Take a look and enjoy.",
       "url": "https://kamel-amen.github.io/Just-Play/",
-      "techs": "<i class='mx-2 fa-brands fa-react' style='color: #5dcaf0'></i></i><i class='fa-brands mx-2 fa-css3-alt' style='color: #264de4'></i><i class='fa-brands mx-2 fa-js' style='color: #f5b918'></i><i class='fa-brands mx-2 fa-sass' style='color: #cd6799'></i><i class='fa-brands mx-2 fa-bootstrap' style='color: #563d7c'></i>",
+      "techs": "<i class='mx-2 fa-brands fa-react' style='color: #5dcaf0'></i></i><i class='fa-brands mx-2 fa-css3-alt' style='color: #264de4'></i></i><i class='fa-brands mx-2 fa-sass' style='color: #cd6799'></i><i class='fa-brands mx-2 fa-bootstrap' style='color: #563d7c'></i><i class='fa-brands fa-font-awesome' style='color: #74C0FC;'></i>",
+      "freelance": false,
       "code": "https://github.com/Kamel-Amen/Just-Play"
     }
   ]
