@@ -49,6 +49,16 @@
       "techs": "<i class='fa-brands mx-2 fa-react' style='color: #74C0FC'></i><i class='fa-brands mx-2 fa-sass' style='color: #cd6799'></i><i class='fa-brands mx-2 fa-bootstrap' style='color: #563d7c'></i><img width='32' height='32' src='https://img.icons8.com/color/480/redux.png' alt='redux'/><i class='fa-brands fa-font-awesome' style='color: #74C0FC; margin-left: 0.75rem'></i>",
       "freelance": false,
       "code": "https://github.com/Kamel-Amen/e-market"
+    },
+    {
+      "id": 6,
+      "name": "LMS",
+      "img": "../../../assests/projects-imgs/p6.png",
+      "info": "LMS is a small library application for reading books online",
+      "url": "https://kamel-amen.github.io/LMS/",
+      "techs": "<i class='fa-brands mx-2 fa-react' style='color: #74C0FC'></i><i class='fa-brands mx-2 fa-sass' style='color: #cd6799'></i><i class='fa-brands mx-2 fa-bootstrap' style='color: #563d7c'></i><img width='32' height='32' src='https://img.icons8.com/color/480/redux.png' alt='redux'/><i class='fa-brands fa-font-awesome' style='color: #74C0FC; margin-left: 0.75rem'></i>",
+      "freelance": true,
+      "code": "https://youtu.be/heAzLRd5Bgk"
     }
   ]
 }
