@@ -12,13 +12,13 @@
     },
     {
       "id": 2,
-      "name": "Tenzies Game",
+      "name": "Todo List",
       "img": "../../../assests/projects-imgs/p2.png",
-      "info": "A dice roller game.",
-      "url": "https://kamel-amen.github.io/Tenzies-React-Game/",
-      "techs": "<i class='fa-brands mx-2 fa-css3-alt' style='color: #264de4'></i><i class='fa-brands mx-2 fa-react' style='color: #74C0FC'></i><i class='fa-brands mx-2 fa-sass' style='color: #cd6799'></i><i class='fa-brands mx-2 fa-bootstrap' style='color: #563d7c'></i>",
-      "freelance": false,
-      "code": "https://github.com/Kamel-Amen/Tenzies-React-Game"
+      "info": "Todo list with login and registration system, with database for saving all user info and todos.",
+      "url": "https://todo-list-b7265.web.app/",
+      "techs": "<i class='fa-brands mx-2 fa-css3-alt' style='color: #264de4'></i><i class='fa-brands mx-2 fa-react' style='color: #74C0FC'></i><i class='fa-brands mx-2 fa-sass' style='color: #cd6799'></i><i class='fa-brands mx-2 fa-bootstrap' style='color: #563d7c'></i><img width='40' height='35' src='https://img.icons8.com/color/100/firebase.png' alt='firebase'/>",
+      "freelance": true,
+      "code": "https://youtu.be/MGSSROx66v8"
     },
     {
       "id": 3,

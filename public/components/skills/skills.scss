@@ -134,9 +134,9 @@ body {
             -webkit-transition: transform 0.2s;
             -moz-transition: transform 0.2s;
             &:hover {
-              transform: scale(1.2);
-              -webkit-transform: scale(1.2);
-              -moz-transform: scale(1.2);
+              transform: scale(1.2) rotate(20deg);
+              -webkit-transform: scale(1.2) rotate(20deg);
+              -moz-transform: scale(1.2) rotate(20deg);
             }
           }
         }
