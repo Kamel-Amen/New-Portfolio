@@ -25,133 +25,39 @@
       referrerpolicy="no-referrer"
     />
 
-    <link rel="stylesheet" href="./public/style.css" />
-    <link rel="stylesheet" href="./public/loader.css" />
+    <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
     <!-- Start Body -->
-    <div class="homepage w-100 h-auto">
-      <!-- Start Navbar -->
-      <div class="container">
-        <nav class="navbar navbar-expand-md navbar-dark">
-          <a class="navbar-brand" href="./index.html">
-            <img
-              class="w-100 h-100"
-              src="./assests/logo/KAMEL.gif"
-              alt="logo"
-            />
-          </a>
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarNav"
-            aria-controls="navbarNav"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <div class="navbar-nav ms-auto">
-              <li class="nav-item">
-                <a
-                  class="nav-link active-link"
-                  aria-current="page"
-                  href="./index.html"
-                  >Home</a
-                >
-              </li>
-              <li class="nav-item">
-                <a
-                  class="nav-link"
-                  href="./public/components/skills/skills.html"
-                  >Skills</a
-                >
-              </li>
-              <li class="nav-item">
-                <a
-                  class="nav-link"
-                  href="./public/components/projects/projects.html"
-                  >Projects</a
-                >
-              </li>
-              <li class="nav-item">
-                <a
-                  class="nav-link"
-                  href="./public/components/certificates/certificates.html"
-                  >Certificates</a
-                >
-              </li>
-              <li class="nav-item">
-                <a
-                  class="nav-link"
-                  href="./public/components/contact/contact.html"
-                  >Contact Me</a
-                >
-              </li>
-            </div>
+    <div class="homepage overflow-hidden">
+      <!-- Start Home -->
+      <div
+        class="container w-100 h-100 d-flex justify-content-center align-items-center"
+      >
+        <div
+          class="home d-flex justify-content-center align-items-center gap-5"
+        >
+          <div class="link text-white">
+            <h1>There is a new portfolio, check it out now !</h1>
+            <a
+              class="btn btn-primary mt-1 w-auto px-3"
+              href="https://kamel-amen.github.io/react-portfolio/"
+              >New Portfolio</a
+            >
           </div>
-        </nav>
-        <!-- End Navbar -->
 
-        <!-- Start Home -->
-        <div class="home mt-5 align-items-start justify-content-between row">
-          <div class="img-info col-lg-4 col-md-6 col-sm-12">
+          <div class="img-info">
             <div class="img-holder">
               <img
                 class="w-100 h-100 rounded-5"
-                src="./assests/kamel.jpg"
+                src="./assests/coding.gif"
                 alt="kamel"
               />
             </div>
           </div>
-          <div class="home-info col-lg-7 col-md-6 col-sm-12 text-white">
-            Welcome... I'm Kamel
-            <i class="fa-solid fa-face-grin-wide fa-beat text-white ms-2"></i>
-            <h1
-              class="fw-lighter text-uppercase overflow-hidden position-relative"
-            >
-              <span>A</span>
-              <div
-                class="message fw-lighter d-block overflow-hidden position-absolute"
-              >
-                <div class="word1">Frontend</div>
-                <div class="word2">UI Developer</div>
-                <div class="word3">Freelancer</div>
-              </div>
-            </h1>
-            <p class="fs-5 w-100 mt-3">
-              Frontend & UI developer with professional skills used to deliver
-              modern and responsive websites to clients. It is my passion to
-              design and develop websites that suit clients' ideas and
-              requirements, I can work with a team or alone, and also can work
-              under pressure.
-            </p>
-            <a
-              class="text-decoration-none"
-              href="./assests/Kamel Amen  Frontend & UI Developer.pdf"
-              download="Kamel Amen || Frontend & UI Developer"
-              >Download Resume<i class="fa fa-download ms-2"></i
-            ></a>
-          </div>
         </div>
       </div>
-      <div
-        class="loader position-fixed top-0 start-0 d-flex justify-content-center align-items-center"
-      ></div>
       <!-- End Home -->
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 1440 320"
-        class="position-fixed bottom-0 start-0"
-      >
-        <path
-          fill="#4496f3"
-          fill-opacity="1"
-          d="M0,192L40,186.7C80,181,160,171,240,186.7C320,203,400,245,480,234.7C560,224,640,160,720,165.3C800,171,880,245,960,272C1040,299,1120,277,1200,224C1280,171,1360,85,1400,42.7L1440,0L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"
-        ></path>
-      </svg>
     </div>
     <!-- End Body -->
 
